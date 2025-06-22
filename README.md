@@ -1,2 +1,3 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+
+My name is Hector and i'm a software eingeenier, and i'm doing this because i'm learning some github stuff.
